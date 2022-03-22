@@ -9,3 +9,7 @@ tmp/
 # bundler state
 /.bundle
 /vendor/bundle/
+
+# IntelliJ
+.idea
+*.iml
